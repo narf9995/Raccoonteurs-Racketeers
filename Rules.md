@@ -954,5 +954,3 @@ require:**
   About 10D6 per player)
 
 ➼**Pen/Paper** for each player.
-
- 
