@@ -249,7 +249,7 @@ You may give this whatever narrative flavor you like as long as it is temporary 
 
 
 
-### 3.1.3. Triumph
+### 2.1.3. Triumph
 
 Triumph is a personal currency representative of your Raccoons cumulative successes.
 You may use it at any time.
