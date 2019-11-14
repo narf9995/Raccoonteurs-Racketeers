@@ -25,9 +25,9 @@ The following sections will cover making your raccoons, establishing character r
 
 
 
-### 1. Raccoon Generation
+## 1. Raccoon Generation
 
-#### 1.1. Ability Scores
+### 1.1. Ability Scores
 
 Roll 6d6 and assign one die to
 each ability:
@@ -36,32 +36,32 @@ each ability:
 
 ●
 **Literacy:** _“Ability to Read/Write”_
-Read/write human, “Book Smarts”, etc.
+-- Read/write human, “Book Smarts”, etc.
 
 
 ●
 **Mimicry:** _“Ability to Imitate”_
-Speak Human, Ventriloquism, etc.
+-- Speak Human, Ventriloquism, etc.
 
 
 ●
 **Jugglery** _“Manipulation/Trickery”_
-Carrying Off Schemes, Ruses, Lies, Disguises, “Street Smarts”, etc.
+-- Carrying Off Schemes, Ruses, Lies, Disguises, “Street Smarts”, etc.
 
 
 ●
 **Celerity:** _“Rapidity of Motion”_
-Running, Climbing, Swimming, Jumping, Sleight of Hand, etc.
+-- Running, Climbing, Swimming, Jumping, Sleight of Hand, etc.
 
 
 ●
 **Ferocity:** _“Propensity of Harm”_
-Scratch, Bite, Maim,intimidate, etc.
+-- Scratch, Bite, Maim,intimidate, etc.
 
 
 ●
 **Rotundity:** _“Level of Roundness”_
-Remain steadfast in adversity thanks to your generous roundness.
+-- Remain steadfast in adversity thanks to your generous roundness.
 
 
 
@@ -69,9 +69,9 @@ If you have 3 (or more) 1’s,
 then you may re-roll all 6D6 at once until you have less than 3. If you roll
 all 6’s, then you also get to manually choose your 2 starting items.
 
+---
 
-
-###1.2. Starting Items
+### 1.2. Starting Items
 
 You get 2 items at the beginning of the game, this number is simply due to the fact that you only have 2 hands.
 Unless you find a creative way to carry more items, you can only carry 2 items for the rest of the game and will need to set them down to do other actions.
@@ -80,73 +80,61 @@ Unless you find a creative way to carry more items, you can only carry 2 items f
 
 To select your starting items you must roll a 1D20 twice on the list below:
 
-**1.  BASEBALL
-BAT W/ NAILS:** This one seems pretty darn
-self-explanatory.
+1. **BASEBALL BAT W/ NAILS:** This one seems pretty darn self-explanatory.
 
-**2.  CASSETTE
-TAPE:** A-Side is Queen’s Greatest Hits
+2. **CASSETTE TAPE:** A-Side is Queen’s Greatest Hits
 supposedly.
 
-**3.  FAKE ID:** Use this to buy booze & weed despite the fact you’re likely 2-3 years
+3. **FAKE ID:** Use this to buy booze & weed despite the fact you’re likely 2-3 years
 old, and a raccoon.
 
-**4.  BROOM:** The ultimate anti-raccoon weapon, also works against cars,
+4. **BROOM:** The ultimate anti-raccoon weapon, also works against cars,
 people, and dogs.
 
-**5.  BROWN
-CARDBOARD BOX:** Multipurpose logistics and obfuscation
-device.
+5. **BROWN CARDBOARD BOX:** Multipurpose logistics and obfuscation device.
 
-**6.  SMART
+6. **SMART
 PHONE:** Call your friends, take pictures,
 browse the web!
 
-**7.  COUGH
-SYRUP:** Doesn’t work on coughs, but at least it’s a mild
+7. **COUGH SYRUP:** Doesn’t work on coughs, but at least it’s a mild
 narcotic.
 
-**8.  GRAPPLING
-HOOK:** Perform sweet grapple tricks.
+8. **GRAPPLING HOOK:** Perform sweet grapple tricks.
 
-**9.  BALLOON:** The kind you can use to float around… Until it pops!
+9. **BALLOON:** The kind you can use to float around… Until it pops!
 
-**10. DOG MASK:** Pass yourself
+10. **DOG MASK:** Pass yourself
 off as a dog, they’ll
 never suspect a thing!
 
-**11. FAKE BEARD AND GLASSES:** Conceal your identity… Just ignore the tail.
+11. **FAKE BEARD AND GLASSES:** Conceal your identity… Just ignore the tail.
 
-**12. LUBE:** A solution to
+12. **LUBE:** A solution to
 things sticking.
 
-**13. ANIMAL CONTROL KEYRING:** Either dropped or stolen, these are the keys to raccoon
+13. **ANIMAL CONTROL KEYRING:** Either dropped or stolen, these are the keys to raccoon
 Super-Max.
 
-**14. LIT CIGAR:** How’s it staying lit? It’s
+14. **LIT CIGAR:** How’s it staying lit? It’s
 seriously been that way for weeks...
 
-**15. POLICE SIREN:** Makes
+15. **POLICE SIREN:** Makes
 noise and lights. Clears traffic temporarily.
 
-**16. LEAD PIPE:** Helps
-you hit stuff harder. +1 against kneecaps & Romans.
+16. **LEAD PIPE:** Helps you hit stuff harder. +1 against kneecaps & Romans.
 
-**17. TURBO ROCKET:** One
-use per race (up to 3/day), +3 to speed. It’s not rocket science.
+17. **TURBO ROCKET:** One use per race (up to 3/day), +3 to speed. It’s not rocket science.
 
-**18. DUCT TAPE:** A
-solution to things not sticking.
+18. **DUCT TAPE:** A solution to things not sticking.
 
-**19. BANANA:** Delicious!
-Also, other things might slip on the peel...
+19. **BANANA:** Delicious! Also, other things might slip on the peel...
 
-**20. HANDGUN:** A loaded
-Ruger LCP II chambered in .380 ACP that hold 6+1 rounds.
+20. **HANDGUN:** A loaded Ruger LCP II chambered in .380 ACP that hold 6+1 rounds.
 
-** **
+---
 
-**1.3. Background**
+### 1.3. Background
 
 Why did you, a raccoon,
 enter the dangerous and lucrative world of bike theft? Are you a wide-eyed
@@ -156,14 +144,11 @@ Who are your rivals & are they human? Do they even know you exist? What’s
 the conflict at the heart of you that spurs drama? **Write a short
 origin story for your raccoon, and give them a name.**
 
-** **
+---
 
-[]()**2.
-Character Relationships**
+## 1.4 Character Relationships
 
-** **
-
-**2.1. Nemesis**
+### 1.4.1. Nemesis**
 
 This individual is the crux
 of your existence. You will likely do anything to see that they fail. This can
@@ -189,7 +174,7 @@ more important than your backstory.
 
 
 
-**2.2. Associate**
+### 1.4.2. Associate
 
 This individual is someone
 you work with that either owes you a **Debt**
