@@ -17,7 +17,7 @@ So you were either already an established member in one of these gangs, “prote
 
 ## How to Play Raccoontuers & Racketeers
 
-The following sections will cover making your raccoons, establishing character relationships, and everything else the game-master needs to know in order to run the game.
+The following sections will cover making your raccoons, establishing character relationships, and everything you need to know to start playing.
 
 
 
