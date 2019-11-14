@@ -288,7 +288,7 @@ Top Speed is the maximum number of speed dice.
 Durability is the amount of damage it can withstand.
 Complexity is the difficulty of the repair check.
 
-
+---
 
 There are 5 types of vehicles:
 
@@ -296,24 +296,19 @@ There are 5 types of vehicles:
 
 **Pedal-Powered:**
 
-- Tricycle -- Requires 1
-Raccoon -- [Top Speed: 5]--[Durability: 5]--[Complexity: 1]
+- Tricycle - Requires 1 Raccoon - [Top Speed: 5] [Durability: 5] [Complexity: 1]
 
-- Bicycle, Child --
-Requires 2 Raccoons -- [Top Speed: 10]--[Durability: 7]--[Complexity: 2]
+- Bicycle, Child - Requires 2 Raccoons - [Top Speed: 10] [Durability: 7] [Complexity: 2]
 
-- Bicycle, Adult --
-Requires 4 Raccoons -- [Top Speed: 15]--[Durability: 10]--[Complexity: 3]
+- Bicycle, Adult - Requires 4 Raccoons - [Top Speed: 15] [Durability: 10] [Complexity: 3]
 
 
 
 **Motor-Powered:**
 
-- Motorcycle -- Requires 3
-Raccoons -- [Top Speed: 30]--[Durability: 15]--[Complexity: 4]
+- Motorcycle - Requires 3 Raccoons - [Top Speed: 30] [Durability: 15] [Complexity: 4]
 
-- Automobile -- Requires 5
-Raccoons -- [Top Speed: 50]--[Durability: 20]--[Complexity: 5]
+- Automobile - Requires 5 Raccoons - [Top Speed: 50] [Durability: 20] [Complexity: 5]
 
 ** **
 
