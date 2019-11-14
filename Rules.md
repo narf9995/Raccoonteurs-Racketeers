@@ -1,107 +1,33 @@
-[**Raccoontuers & Racketeers**]()
-
-**Tall Tales, Striped Tails,
-& Bats with Nails**
-
--
-
-An unofficial spiritual successor
-
- to
-Grant Howitt’s _Crash Pandas,_
-
-Written by Aidan Naveja
-
-
+# Introduction
 
 ** **
 
-**Relevant Definitions:**
-
-●
-**Raccoontuer**
-
-ra·ccoon·teur
-
-/ˌræˈkuːnˈtər/
-
-Noun
-
-a raccoon who tells
-anecdotes in a skillful and amusing way.
+Through rose tinted glasses, our scene is set on the streets of the Greater Seattle area where roving gangs of bicycle riding raccoons battle over territory to secure a consistent supply of the 3 most important things to _Procyon lotor_ when found in their "natural" urban habitat; sustenance, shelter, and high-end fixed-gear bike parts.
 
 
 
-●
-**Racketeer**
-
-rack·et·eer
-
-/ˌrakəˈtir/
-
-Noun
-
-one who engages in
-dishonest and fraudulent business dealings, usually involving acts of violence
-or intimidation.
-
-** **
-
-
-
-**
-
-Work In Progress: 2nd Rough Draft**
-
-
-
-
-
-
-
-[**Introduction**]()
-
-** **
-
-Through rose tinted glasses,
-our scene is set on the streets of the Greater Seattle area where roving gangs
-of bicycle riding raccoons battle over territory to secure a consistent supply
-of the 3 most important things to _Procyon
-lotor_ when found in their "natural" urban habitat; sustenance,
-shelter, and high-end fixed-gear bike parts.
-
-
-
-You play as one of these
-now-retired chain breaking raccoons, retelling stories of the old glory days to
-your grandkits around the trash-fire. There are many reasons why you might have
-entered the lucrative and dangerous bike component game. But whether you grew
+You play as one of these now-retired chain breaking raccoons, retelling stories of the old glory days to your grandkits around the trash-fire.
+There are many reasons why you might have
+entered the lucrative and dangerous bike component game.
+But whether you grew
 up in the streets as a parts peddler or this was only a temporary decrease in
 your stature, you were in a bad situation at the time and you really needed the
 cash.
 
 
 
-One things for sure, the
-Chain Gangs didn’t look kindly on the thieves and
-vagrants they found trespassing in their territory. So you were either already
-an established member in one of these gangs, “protected” by them in exchange
-for a hefty weekly quota of trash/bike parts, or simply new in town and just
-lucky enough to stay off the radar.
+One things for sure, the Chain Gangs didn’t look kindly on the thieves and vagrants they found trespassing in their territory.
+So you were either already an established member in one of these gangs, “protected” by them in exchange for a hefty weekly quota of trash/bike parts, or simply new in town and just lucky enough to stay off the radar.
 
-[**How
-to Play Raccoontuers & Racketeers**]()
+## How to Play Raccoontuers & Racketeers
 
 
 
-The following sections will
-cover making your raccoons, establishing character relationships, and
-everything else the game-master needs to know in order to run the game.
+The following sections will cover making your raccoons, establishing character relationships, and everything else the game-master needs to know in order to run the game.
 
 
 
-[]()**1.
-Raccoon Generation**
+## 1. Raccoon Generation
 
 ** **
 
