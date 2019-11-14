@@ -21,6 +21,19 @@ The following sections will cover making your raccoons, establishing character r
 
 
 
+** **
+
+**In order to play you will require:**
+
+
+
+➼**1d20** & a minimum of **10D6** for the group. (**IDEAL**:About 10D6 per player)
+
+➼**Pen/Paper** for each player.
+** **
+
+
+
 ## 1. Raccoon Generation
 
 ### 1.1. Ability Scores
@@ -190,7 +203,7 @@ _[If your associate is another PR, first inform them of this debt and then roll 
 
 ---
 
-## 2. Rules**
+## 2. Rules
 
 ### 2.1. General Actions - _“Ability Check”_
 
@@ -216,7 +229,7 @@ If a raccoon has more than **three Flub**, other Raccoons may spend their **Triu
 
 
 
-## 2.1.2. Defects
+### 2.1.2. Defects
 
 **Defects** are negative traits that raccoons can invoke on others when a targets **Flub** is equal to 3 or higher.
 They have a relevant ability and a value of severity equal number of **Triumph** spent on them (up to a maximum value set by the targets current **Flub**).
@@ -236,7 +249,7 @@ You may give this whatever narrative flavor you like as long as it is temporary 
 
 
 
-**3.1.3. Triumph**
+### 3.1.3. Triumph
 
 Triumph is a personal currency representative of your Raccoons cumulative successes.
 You may use it at any time.
@@ -304,7 +317,7 @@ Raccoons - [Top Speed: 50][Durability: 20][Complexity: 5]
 
 ** **
 
-#### 2.2.2. Operating the Vehicle**
+#### 2.2.2. Operating the Vehicle
 
 Players choose an action by secretly setting a D6 to a number of their choice, then revealing them all at once. **NO CONFERRING!**
 
@@ -362,7 +375,7 @@ Options include:
 
 
 
-#### 2.2.3. Collisions & Damage**
+#### 2.2.3. Collisions & Damage
 
 If the vehicle makes contact with an obstacle (or a wall) it takes damage if the GK feels it would be appropriate.
 If it’s a glancing blow, or a breakable object, the car takes damage equal to half speed. If it’s a head-on crash, or a solid object, it takes damage equal to speed, and speed is reduced to 0.
@@ -422,27 +435,3 @@ government headquartered in Seattle.
 ●
 **Chain Gang** - A gang of DIY raccoon
 bicycle thieves.
-
-
-
-**-**
-
-** **
-
-**In
-order to play you will
-
-require:**
-
-** **
-
-
-
-➼**1d20**
-  & a minimum of **10D6** for the
-  group.
-
-(**IDEAL**:
-  About 10D6 per player)
-
-➼**Pen/Paper** for each player.
