@@ -27,7 +27,7 @@ The following sections will cover making your raccoons, establishing character r
 
 
 
-➼**1d20** & a minimum of **10D6** for the group. (**IDEAL**:About 10D6 per player)
+➼**1d20** & a minimum of **10D6** for the group. (**IDEAL**: About 10D6 per player)
 
 ➼**Pen/Paper** for each player.
 ** **
