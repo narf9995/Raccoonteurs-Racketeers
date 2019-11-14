@@ -282,7 +282,7 @@ Vehicles require multiple Raccoons to operate them and have 3 stats; Top Speed, 
 
 
 
-#### 2.2.1. Vehicle Stats
+### 2.2.1. Vehicle Stats
 
 Top Speed is the maximum number of speed dice.
 Durability is the amount of damage it can withstand.
@@ -312,7 +312,7 @@ There are 5 types of vehicles:
 
 ** **
 
-#### 2.2.2. Operating the Vehicle
+### 2.2.2. Operating the Vehicle
 
 Players choose an action by secretly setting a D6 to a number of their choice, then revealing them all at once. **NO CONFERRING!**
 
@@ -370,7 +370,7 @@ Options include:
 
 
 
-#### 2.2.3. Collisions & Damage
+### 2.2.3. Collisions & Damage
 
 If the vehicle makes contact with an obstacle (or a wall) it takes damage if the GK feels it would be appropriate.
 If it’s a glancing blow, or a breakable object, the car takes damage equal to half speed. If it’s a head-on crash, or a solid object, it takes damage equal to speed, and speed is reduced to 0.
@@ -382,7 +382,7 @@ If it takes any further damage without repair, results may be catastrophic.
 
 
 
-### 2.3. Harm & Misfortune
+## 2.3. Harm & Misfortune
 
 If a Raccoon fails a dangerous action, they’re in trouble and must be assisted/rescued by their friends (or begrudging associates).
 Player Raccoons don’t take serious damage or die, ever. Otherwise they wouldn’t be here telling this story to their grandkits right now.
@@ -394,7 +394,7 @@ Harming humans, other animals, and Non-Player Raccoons though? That’s totally 
 
 
 
-### 2.4. Debt
+## 2.4. Debt
 
 A debt can only be invoked once and compliance to its demands are non-negotiable. It either is generated at the start of the game or accrued during play when being rescued from danger.
 If the owner of the debt wishes, you must work together as their associate until the debt is invoked or the owner of the debt no longer requires the assistance.
