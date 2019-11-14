@@ -1,7 +1,5 @@
 # Introduction
 
-** **
-
 Through rose tinted glasses, our scene is set on the streets of the Greater Seattle area where roving gangs of bicycle riding raccoons battle over territory to secure a consistent supply of the 3 most important things to _Procyon lotor_ when found in their "natural" urban habitat; sustenance, shelter, and high-end fixed-gear bike parts.
 
 
@@ -27,11 +25,9 @@ The following sections will cover making your raccoons, establishing character r
 
 
 
-## 1. Raccoon Generation
+### 1. Raccoon Generation
 
-** **
-
-**1.1. Ability Scores**
+#### 1.1. Ability Scores
 
 Roll 6d6 and assign one die to
 each ability:
@@ -39,46 +35,33 @@ each ability:
 
 
 ●
-**Literacy
-- ****_“Ability to Read/Write”_**
-
+**Literacy:** _“Ability to Read/Write”_
 Read/write human, “Book Smarts”, etc.
 
-●
-**Mimicry
-- ****_“Ability to Imitate”_**
-
-Speak Human,
-Ventriloquism, etc.
 
 ●
-**Jugglery
-- ****_“Manipulation/Trickery”_**
+**Mimicry:** _“Ability to Imitate”_
+Speak Human, Ventriloquism, etc.
 
-Carrying Off Schemes,
-Ruses, Lies, Disguises, “Street
-Smarts”, etc.
 
 ●
-**Celerity
-- ****_“Rapidity of Motion”_**
+**Jugglery** _“Manipulation/Trickery”_
+Carrying Off Schemes, Ruses, Lies, Disguises, “Street Smarts”, etc.
 
-Running, Climbing,
-Swimming, Jumping, Sleight of Hand, etc.
 
 ●
-**Ferocity
-- ****_“Propensity of Harm”_**
+**Celerity:** _“Rapidity of Motion”_
+Running, Climbing, Swimming, Jumping, Sleight of Hand, etc.
 
-Scratch, Bite, Maim,
-intimidate, etc.
 
 ●
-**Rotundity
-- ****_“Level of Roundness”_**
+**Ferocity:** _“Propensity of Harm”_
+Scratch, Bite, Maim,intimidate, etc.
 
-Remain steadfast in
-adversity thanks to your generous roundness.
+
+●
+**Rotundity:** _“Level of Roundness”_
+Remain steadfast in adversity thanks to your generous roundness.
 
 
 
@@ -88,22 +71,14 @@ all 6’s, then you also get to manually choose your 2 starting items.
 
 
 
-**1.2. Starting Items **
+###1.2. Starting Items
 
-You get 2 items
-at the beginning of the game, this number is simply due to the fact that you
-only have 2 hands. Unless you find a creative way to carry more items, you can
-only carry 2 items for the rest of the game and will need to set them down to
-do other actions.
+You get 2 items at the beginning of the game, this number is simply due to the fact that you only have 2 hands.
+Unless you find a creative way to carry more items, you can only carry 2 items for the rest of the game and will need to set them down to do other actions.
 
 
 
-To select your
-starting items you must roll a 1D20
-
-twice on the list below:
-
-
+To select your starting items you must roll a 1D20 twice on the list below:
 
 **1.  BASEBALL
 BAT W/ NAILS:** This one seems pretty darn
