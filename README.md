@@ -1,7 +1,7 @@
 # __Raccoontuers & Racketeers__ [1st Edition Prototype]
 ### Tall Tales, Striped Tails, & Bats with Nails
 #### _An unofficial spiritual successor to Grant Howitt’s Crash Pandas_
-##### Written by Aidan Naveja
+##### Written by Aidan Naveja under the CC-BY-SA-4.0 license
 ---
 ### Relevent Definitions:
 
