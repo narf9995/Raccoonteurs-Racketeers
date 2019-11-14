@@ -78,7 +78,7 @@ If you have 3 (or more) 1’s,
 then you may re-roll all 6D6 at once until you have less than 3. If you roll
 all 6’s, then you also get to manually choose your 2 starting items.
 
----
+
 
 ### 1.2. Starting Items
 
@@ -141,7 +141,7 @@ noise and lights. Clears traffic temporarily.
 
 20. **HANDGUN:** A loaded Ruger LCP II chambered in .380 ACP that hold 6+1 rounds.
 
----
+
 
 ### 1.3. Background
 
@@ -156,7 +156,7 @@ What’s the conflict at the heart of you that spurs drama?
 **Write a short
 origin story for your raccoon, and give them a name.**
 
----
+
 
 ### 1.4 Character Relationships
 
@@ -201,7 +201,7 @@ If the result is even, they owe you a favor.
 If it’s odd, you owe them a favor.
 _[If your associate is another PR, first inform them of this debt and then roll the 1D6 for who owes who in a place both of you can see.]_
 
----
+
 
 ## 2. Rules
 
@@ -296,24 +296,24 @@ There are 5 types of vehicles:
 
 **Pedal-Powered:**
 
-- Tricycle - Requires 1
-Raccoon - [Top Speed: 5][Durability: 5][Complexity: 1]
+- Tricycle -- Requires 1
+Raccoon -- [Top Speed: 5]--[Durability: 5]--[Complexity: 1]
 
-- Bicycle, Child -
-Requires 2 Raccoons - [Top Speed: 10][Durability: 7][Complexity: 2]
+- Bicycle, Child --
+Requires 2 Raccoons -- [Top Speed: 10]--[Durability: 7]--[Complexity: 2]
 
-- Bicycle, Adult -
-Requires 4 Raccoons - [Top Speed: 15][Durability: 10][Complexity: 3]
+- Bicycle, Adult --
+Requires 4 Raccoons -- [Top Speed: 15]--[Durability: 10]--[Complexity: 3]
 
 
 
 **Motor-Powered:**
 
-- Motorcycle - Requires 3
-Raccoons - [Top Speed: 30][Durability: 15][Complexity: 4]
+- Motorcycle -- Requires 3
+Raccoons -- [Top Speed: 30]--[Durability: 15]--[Complexity: 4]
 
-- Automobile - Requires 5
-Raccoons - [Top Speed: 50][Durability: 20][Complexity: 5]
+- Automobile -- Requires 5
+Raccoons -- [Top Speed: 50]--[Durability: 20]--[Complexity: 5]
 
 ** **
 
@@ -410,28 +410,27 @@ If this association causes the indebted party to repeatedly endanger themselves,
 ## Glossary
 
 ●
-**GK **- Grandkit - A.K.A “Game
-Master”
+**GK** -- Grandkit - _A.K.A “Game
+Master”_
 
 ●
-**PR **- Player Raccoon - A.K.A “Player
-Character”
+**PR** -- Player Raccoon - _A.K.A “Player
+Character”_
 
 ●
-**NPR **- Non-Player Raccoon - A.K.A
-“Non-Player Character”
+**NPR** -- Non-Player Raccoon - _A.K.A
+“Non-Player Character”_
 
 ●
-**1d20 **- One Twenty-Sided Die
+**1d20** -- One Twenty-Sided Die
 
 ●
-**#d6 **- “#
-many” Six-Sided Die (e.g. 2d6 is 2 dice)
+**#d6** -- “# many” Six-Sided Die (e.g. 2d6 is 2 dice)
 
 ●
-**The Cabal **- A devious raccoon shadow
-government headquartered in Seattle.
-
-●
-**Chain Gang** - A gang of DIY raccoon
+**Chain Gang** -- A gang of DIY raccoon
 bicycle thieves.
+
+●
+**The Cabal** -- A devious raccoon shadow
+government headquartered in Seattle.

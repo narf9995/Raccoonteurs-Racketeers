@@ -3,24 +3,20 @@
 #### _An unofficial spiritual successor to Grant Howitt’s Crash Pandas_
 ##### Written by Aidan Naveja
 ---
-Relevent Definitions:
+### Relevent Definitions:
 
 
 
 __Raccoontuer__
 
 
-
 _ra·ccoon·teur_  
-
 
 
 _/ˌræˈkuːnˈtər/_  
 
 
-
 Noun
-
 
 
 >a raccoon who tells anecdotes in a skillful and amusing way.
@@ -30,18 +26,13 @@ Noun
 __Racketeer__
 
 
-
 _rack·et·eer_
-
 
 
 _/ˌrakəˈtir/_
 
 
-
 Noun
 
 
-
 >one who engages in dishonest and fraudulent business dealings, usually involving acts of violence or intimidation.
----
