@@ -91,45 +91,35 @@ To select your starting items you must roll a 1D20 twice on the list below:
 
 1. **BASEBALL BAT W/ NAILS:** This one seems pretty darn self-explanatory.
 
-2. **CASSETTE TAPE:** A-Side is Queen’s Greatest Hits
-supposedly.
+2. **CASSETTE TAPE:** A-Side is Queen’s Greatest Hits supposedly.
 
-3. **FAKE ID:** Use this to buy booze & weed despite the fact you’re likely 2-3 years
-old, and a raccoon.
+3. **FAKE ID:** Use this to buy booze & weed despite the fact you’re likely 2-3 years old, and a raccoon.
 
-4. **BROOM:** The ultimate anti-raccoon weapon, also works against cars,
-people, and dogs.
+4. **BROOM:** The ultimate anti-raccoon weapon, also works against cars, people, and dogs.
 
 5. **BROWN CARDBOARD BOX:** Multipurpose logistics and obfuscation device.
 
 6. **SMART
-PHONE:** Call your friends, take pictures,
-browse the web!
+PHONE:** Call your friends, take pictures, browse the web!
 
-7. **COUGH SYRUP:** Doesn’t work on coughs, but at least it’s a mild
-narcotic.
+7. **COUGH SYRUP:** Doesn’t work on coughs, but at least it’s a mild narcotic.
 
 8. **GRAPPLING HOOK:** Perform sweet grapple tricks.
 
 9. **BALLOON:** The kind you can use to float around… Until it pops!
 
-10. **DOG MASK:** Pass yourself
-off as a dog, they’ll
-never suspect a thing!
+10. **DOG MASK:** Pass yourself off as a dog, they’ll never suspect a thing!
 
 11. **FAKE BEARD AND GLASSES:** Conceal your identity… Just ignore the tail.
 
-12. **LUBE:** A solution to
-things sticking.
+12. **LUBE:** A solution to things sticking.
 
-13. **ANIMAL CONTROL KEYRING:** Either dropped or stolen, these are the keys to raccoon
-Super-Max.
+13. **ANIMAL CONTROL KEYRING:** Either dropped or stolen, these are the keys to raccoon Super-Max.
 
 14. **LIT CIGAR:** How’s it staying lit? It’s
 seriously been that way for weeks...
 
-15. **POLICE SIREN:** Makes
-noise and lights. Clears traffic temporarily.
+15. **POLICE SIREN:** Makes noise and lights. Clears traffic temporarily.
 
 16. **LEAD PIPE:** Helps you hit stuff harder. +1 against kneecaps & Romans.
 
