@@ -77,7 +77,7 @@ Remain steadfast in adversity thanks to your generous roundness.
 
 
 
-## Raw code
+## Minimal Edition for Text Chats
 To post on Discord (or any other chat that formats markdown): Copy+Paste the contents of the code box below into chat and add your information outside of the ** symbols.
 
 ```
