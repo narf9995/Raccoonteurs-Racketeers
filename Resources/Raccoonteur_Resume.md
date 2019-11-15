@@ -1,9 +1,11 @@
 # Raccoonteur Resume
 
 
-**Name:**
+### **Name:**
 
 
+
+---
 **Ability Scores:**
 
 
@@ -48,6 +50,8 @@ Scratch, Bite, Maim, intimidate, etc.
 Remain steadfast in adversity thanks to your generous roundness.
 
 
+
+---
 **Items:**
 
 
@@ -57,6 +61,8 @@ Remain steadfast in adversity thanks to your generous roundness.
   **2.**
 
 
+
+---
 **Background:**
 
 
