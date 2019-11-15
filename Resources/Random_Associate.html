@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Random Associate Generator</title>
+    <script type="text/javascript">
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// this is a completely self-contained random generator,
+// implemented in HTML and JavaScript.
+//
+// to create a new random generator, simply copy this file
+// and change the content of the gen_data array.
+//
+// the primary key of the gen_data array must be named 'main'.
+// to increase the number of random things generated at a time,
+// increase the number of rows of the output textarea.
+//
+// written and released to the public domain by drow [drow@bin.sh]
+// http://creativecommons.org/publicdomain/zero/1.0/
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// json format
+// http://en.wikipedia.org/wiki/JSON
+
+  var gen_data = {};
+
+  gen_data['main'] = [
+    'Your Associate is {species} {connection} {time}. {debt} {reason}.'
+  ];
+  gen_data['species'] = {
+    '1': 'a human',
+    '2-5': 'a raccoon',
+      '6': 'a (species of your choice)'
+  };
+  gen_data['connection'] = [
+    'you met at the wedding of {family_member}',
+    'you met at the funeral of {family_member}',
+    'you worked with',
+    'that you worked with in {place}',
+    'you met at {proper_place}',
+    'that you used to know',
+    'that you met in {place}'
+  ];
+  gen_data['family_member'] = [
+    'one of your parents',
+    'both of your parents,',
+    'your legal guardian(s)',
+    'your brother(s)',
+    'your sister(s)',
+    'your offspring',
+    'your lover(s)',
+    'your spouse',
+    'your uncle',
+    'your aunt',
+    'your cousin(s)',
+    'your niece',
+    'your nephew',
+    'your 3rd cousin, twice removed',
+    'your godfather, Dwayne "The Rock" Johnson',
+    'your imaginary friend',
+    'your {pet}'
+  ];
+  gen_data['pet'] = [
+    'pet snake',
+    'pet hamster',
+    'pet beer can',
+    'pet mouse',
+    'pet wasp',
+    'pet rock'
+  ];
+  gen_data['place'] = [
+    'LA',
+    'Latvia',
+    'Canada',
+    'Niagra Falls',
+    'Las Vegas',
+    'Scotland',
+    'Hawaii',
+    'Siberia',
+    'Nova Scotia',
+    'Tuscaloosa, AL',
+    "Skookumchuck, WA",
+    'Peru',
+    'Paris',
+    'Paraguay',
+    'Philadelphia',
+    'Pittsburgh',
+    'Portland',
+    'Moscow',
+    'Marakesh',
+    'Timbuktu'
+  ];
+  gen_data['proper_place'] = [
+    'college',
+    'bootcamp',
+    'the gay club',
+    'biblecamp',
+    'church',
+    'The Gorge',
+    'Folklife',
+    'Hempfest',
+    'that one place'
+  ];
+  gen_data['time'] = {
+    '01-15': 'when you were but a grandkit',
+    '15-30': 'many years ago',
+    '30-40': 'exactly 1 year, 5 months, 7 days, 13 hours, and 37 minutes ago',
+    '41-59': 'a few months back',
+    '60-69': 'last month',
+    '70-79': 'a fortnight ago',
+    '80-85': 'just last week',
+    '86-89': 'mere hours ago',
+    '90-00': 'at some point...You think..'
+  };
+  gen_data['debt'] = [
+    'They owe you a Debt',
+    'You owe them a Debt'
+  ];
+  gen_data['reason'] = [
+    'because of a mistake back in college',
+    'due to poor financial decisions',
+    'because of a love for the ponies',
+    'since it was the right thing to do',
+    'due to it being court ordered',
+    'because of blackmail',
+    'because reasons',
+    'for reasons no one will ever know.',
+    'because God said so',
+    'due to a life being saved',
+    'due to unforseen consequences',
+    'due to poor life choices'
+  ];
+
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    </script>
+  </head>
+  <body>
+    <form method="get" onsubmit="return false;">
+      <p><textarea id="output" cols="80" rows="1" readonly></textarea></p>
+      <p><input type="button" value="Generate" onclick="more_random();" /></p>
+    </form>
+    <script type="text/javascript" src="data:text/javascript;base64,Ly8gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtIC0gLSAtCi8vIHJhbmRvbS5qcwovLwovLyB3cml0dGVuIGFuZCByZWxlYXNlZCB0byB0aGUgcHVibGljIGRvbWFpbiBieSBkcm93IDxkcm93QGJpbi5zaD4KLy8gaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvcHVibGljZG9tYWluL3plcm8vMS4wLwoKZnVuY3Rpb24gbW9yZV9yYW5kb20oKXt2YXIgYT1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgib3V0cHV0IiksYj1wYXJzZUludChhLnJvd3MpO2lmKGI8MSliPTE7Yj1nZW5lcmF0ZV9saXN0KCJtYWluIixiKTthLnZhbHVlPWIuam9pbigiXG4iKX1mdW5jdGlvbiBnZW5lcmF0ZV90ZXh0KGEpe2lmKGE9Z2VuX2RhdGFbYV0paWYoYT1zZWxlY3RfZnJvbShhKSlyZXR1cm4gZXhwYW5kX3Rva2VucyhhKTtyZXR1cm4iIn1mdW5jdGlvbiBnZW5lcmF0ZV9saXN0KGEsYil7dmFyIGM9W10sZDtmb3IoZD0wO2Q8YjtkKyspYy5wdXNoKGdlbmVyYXRlX3RleHQoYSkpO3JldHVybiBjfWZ1bmN0aW9uIHNlbGVjdF9mcm9tKGEpe3JldHVybiBhLmNvbnN0cnVjdG9yPT1BcnJheT9zZWxlY3RfZnJvbV9hcnJheShhKTpzZWxlY3RfZnJvbV90YWJsZShhKX1mdW5jdGlvbiBzZWxlY3RfZnJvbV9hcnJheShhKXtyZXR1cm4gYVtNYXRoLmZsb29yKE1hdGgucmFuZG9tKCkqYS5sZW5ndGgpXX0KZnVuY3Rpb24gc2VsZWN0X2Zyb21fdGFibGUoYSl7dmFyIGI7aWYoYj1zY2FsZV90YWJsZShhKSl7Yj1NYXRoLmZsb29yKE1hdGgucmFuZG9tKCkqYikrMTt2YXIgYztmb3IoYyBpbiBhKXt2YXIgZD1rZXlfcmFuZ2UoYyk7aWYoYj49ZFswXSYmYjw9ZFsxXSlyZXR1cm4gYVtjXX19cmV0dXJuIiJ9ZnVuY3Rpb24gc2NhbGVfdGFibGUoYSl7dmFyIGI9MCxjO2ZvcihjIGluIGEpe3ZhciBkPWtleV9yYW5nZShjKTtpZihkWzFdPmIpYj1kWzFdfXJldHVybiBifWZ1bmN0aW9uIGtleV9yYW5nZShhKXt2YXIgYjtyZXR1cm4oYj0vKFxkKyktMDAvLmV4ZWMoYSkpP1twYXJzZUludChiWzFdKSwxMDBdOihiPS8oXGQrKS0oXGQrKS8uZXhlYyhhKSk/W3BhcnNlSW50KGJbMV0pLHBhcnNlSW50KGJbMl0pXTphPT0iMDAiP1sxMDAsMTAwXTpbcGFyc2VJbnQoYSkscGFyc2VJbnQoYSldfQpmdW5jdGlvbiBleHBhbmRfdG9rZW5zKGEpe2Zvcih2YXIgYjtiPS97KFx3Kyl9Ly5leGVjKGEpOyl7Yj1iWzFdO3ZhciBjO2E9KGM9Z2VuZXJhdGVfdGV4dChiKSk/YS5yZXBsYWNlKCJ7IitiKyJ9IixjKTphLnJlcGxhY2UoInsiK2IrIn0iLGIpfXJldHVybiBhfW1vcmVfcmFuZG9tKCk7Cg=="></script>
+  </body>
+</html>
