@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Random Raccoontuer Generator</title>
+    <title>Random Nemesis Generator</title>
     <script type="text/javascript">
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // this is a completely self-contained random generator,
@@ -24,60 +24,124 @@
   var gen_data = {};
 
   gen_data['main'] = [
-    'A raccoon with a Literacy of {literacy}, Mimicry of {mimicry}, Jugglery of {jugglery}, Celerity of {celerity}, Ferocity of {ferocity}, Rotundity of {rotundity}, and two items; a {item}; and a {item}. Their Nemesis is a {nemesis}. Their Associate is a {associate} and {debt}.'
+    'Your Nemesis is {species} that {transgression} {time}. They {aware} of your existence.'
   ];
-  gen_data['literacy'] = [
-    '1', '2', '3', '4', '5', '6'
-  ];
-  gen_data['mimicry'] = [
-    '1', '2', '3', '4', '5', '6'
-  ];
-  gen_data['jugglery'] = [
-    '1', '2', '3', '4', '5', '6'
-  ];
-  gen_data['celerity'] = [
-    '1', '2', '3', '4', '5', '6'
-  ];
-  gen_data['ferocity'] = [
-    '1', '2', '3', '4', '5', '6'
-  ];
-  gen_data['rotundity'] = [
-    '1', '2', '3', '4', '5', '6'
-  ];
-  gen_data['item'] = {
-    '01': 'BASEBALL BAT W/ NAILS: This one seems pretty darn self-explanatory',
-    '02': 'CASSETTE TAPE: A-Side is Queen’s Greatest Hits supposedly',
-    '03': 'FAKE ID: Use this to buy booze & weed despite the fact you’re likely 2-3 years old, and a raccoon',
-    '04': 'BROOM: The ultimate anti-raccoon weapon, also works against cars, people, and dogs',
-    '05': 'BROWN CARDBOARD BOX: Multipurpose logistics and obfuscation device',
-    '06': 'SMART PHONE: Call your friends, take pictures, browse the web',
-    '07': 'BOTTLE OF COUGH SYRUP: Doesn’t work on coughs, but at least it’s a mild narcotic',
-    '08': 'GRAPPLING HOOK: Perform sweet grapple tricks',
-    '09': 'BALLOON: The kind you can use to float around… Until it pops',
-    '10': 'DOG MASK: Pass yourself off as a dog, they’ll never suspect a thing',
-    '11': 'FAKE BEARD AND GLASSES: Conceal your identity… Just ignore the tail',
-    '12': 'BOTTLE OF LUBE: A solution to things sticking',
-    '13': 'ANIMAL CONTROL KEYRING: Either dropped or stolen, these are the keys to raccoon Super-Max',
-    '14': 'LIT CIGAR: How’s it staying lit? It’s seriously been that way for weeks...',
-    '15': 'POLICE SIREN: Makes noise and lights. Clears traffic temporarily',
-    '16': 'LEAD PIPE: Helps you hit stuff harder. +1 against kneecaps & Romans',
-    '17': 'TURBO ROCKET: One use per race (up to 3/day), +3 to speed. It’s not rocket science',
-    '18': 'ROLL OF DUCT TAPE: A solution to things not sticking',
-    '19': 'BANANA: Delicious! Also, other things might slip on the peel...',
-    '20': 'HANDGUN: A loaded Ruger LCP II chambered in .380 ACP that hold 6+1 rounds'
+  gen_data['species'] = {
+    '1-3': 'a human',
+    '4-5': 'a raccoon',
+      '6': 'a species of your choice'
   };
-  gen_data['nemesis'] = {
-    '01': 'Player Raccoontuer 1D6 to the Right',
-    '02-19': 'Non-Player Raccoontuer of your creation',
-    '20': 'Player Raccoontuer 1D6 to the Left'
+  gen_data['transgression'] = {
+    'murdered {family_member}',
+    'betrayed you on the job',
+    'left you to die',
+    'left you to die in {place}',
+    'snitched on you',
+    'that ignored you',
+    'lost a book you let them borrow and never even offered to pay you back',
+    'made fun of you',
+    'ran over {family_member}',
+    'is quite literally a Nazi-Sympathizing Facist. You discovered this',
+    'stole {food} from the refrigerator despite it being clearly labeled as yours',
+    '{attack} your {pet}',
+    'stole {item} that you were about to steal',
+    'kidnapped {family_member}',
+    'made you late to {event}',
+    'sneezed in your general vicinity without saying "excuse me" like a goddamn savage',
+    'made disrepectful comments about {family_member}',
+    'eloped to {place} with {family_member}',
+    '...honestly, you hate them so much you  forgot what really started it all...but you last saw their stupid face',
+    'drank your last beer',
   };
-    gen_data['associate'] = {
-      '01': 'Player Raccoontuer 1D6 to the Right',
-      '02-19': 'Non-Player Raccoontuer of your creation',
-      '20': 'Player Raccoontuer 1D6 to the Left'
-  };
-    gen_data['debt'] = [
-      'you owe them a Debt', 'they owe you a Debt'
+  gen_data['event'] = [
+    'work',
+    'church',
+    'the funeral for {family_member}',
+    'the premier of last summers hottest blockbuster',
+    'your offsprings graduation',
+    'your vasectomy appointment'
+  ];
+  gen_data['family_member'] = [
+    'one of your parents',
+    'both of your parents,',
+    'your legal guardian(s)',
+    'your brother(s)',
+    'your sister(s)',
+    'your offspring',
+    'your lover(s)',
+    'your spouse',
+    'your uncle',
+    'your aunt',
+    'your cousin(s)',
+    'your niece',
+    'your nephew',
+    'your 3rd cousin, twice removed',
+    'your godfather, Dwayne "The Rock" Johnson',
+    'your imaginary friend',
+    'your {pet}'
+  ];
+  gen_data['place'] = [
+    'LA',
+    'Latvia',
+    'Canada',
+    'Niagra Falls',
+    'Las Vegas',
+    'Scotland',
+    'Hawaii',
+    'Siberia',
+    'Nova Scotia',
+    'Tuscaloosa, AL'
+    "Skookumchuck, WA",
+    'Peru',
+    'Paris',
+    'Paraguay',
+    'Philadelphia',
+    'Pittsburgh',
+    'Portland',
+    'Moscow',
+    'Marakesh',
+    'Timbuktu'
+  ];
+  gen_data['food'] = [
+    'teriyaki',
+    'eggrolls',
+    'a sandwich',
+    "instant ramen",
+    'your delicious home cooking',
+    'a slice of pizza',
+    'literal garbage'
+  ];
+  gen_data['item'] = [
+    'a bicycle',
+    'a book',
+    '{food}',
+    'hit',
+    'killed'
+  ];
+  gen_data['attack'] = [
+    'kicked',
+    'maimed',
+    'spit on',
+    'hit',
+    'killed'
+  ];
+  gen_data['pet'] = [
+    'snake',
+    'hamster',
+    'mouse',
+    'wasp',
+    'rock'
+  ];
+  gen_data['time'] = [
+    'when you were but a grandkit',
+    'many years ago',
+    'a few months back',
+    'last week',
+    'mere hours ago'
+  ];
+  gen_data['aware'] = [
+    'are aware',
+    'are not aware'
   ];
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
