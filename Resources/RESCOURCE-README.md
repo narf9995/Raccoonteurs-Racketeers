@@ -9,11 +9,11 @@ This is a character sheet in markdown that can be copy pasted into chat programs
 ## Random_Raccoonteur.html
 
 
-This is a random generator for Raccoontuers. It has all the info you need to start playing sans the characters Name, Background, Nemesis Details, and Associate Details.
+This is a random generator for Raccoontuers. It has all the info you need to start playing sans the characters Name, Background, Nemesis Details, and Associate Details. You can open it in your browser.
 
 
 
 ## Random_Nemesis.html
 
 
-This is a random generator for the details about your raccoonteurs nemesis.
+This is a random generator for the details about your raccoonteurs nemesis. You can open it in your browser.
