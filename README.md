@@ -52,4 +52,4 @@ Heck even if you don't like raccoons, but you just like the mechanics, please fe
 
 
 
-(If anyone knows how to do so, I'd love to send this to Grant Howitt and get his approval to be respectful.)
+(If anyone knows where to do so, I'd love to send this to Grant Howitt and get his approval just to be respectful.)
