@@ -25,7 +25,7 @@ Succeeding gets you closer to this goal, failing takes you further away. This is
 
 
 
-#### 3.2.2. Variations**
+#### 3.2.2. Variations
 
 Other variants and optional
 rules can be found in section 5.2.
@@ -138,7 +138,7 @@ each set of partners may roll on the Random Chain Gang Affiliation chart.
 
 
 
-### 5.2.3. Alternate Play-Style: Survival**
+### 5.2.3. Alternate Play-Style: Survival
 
 This variation is intended
 for larger groups and long running games. They will have
