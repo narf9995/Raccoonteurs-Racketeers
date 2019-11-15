@@ -376,7 +376,7 @@ If it takes any further damage without repair, results may be catastrophic.
 
 If a Raccoon fails a dangerous action, they’re in trouble and must be assisted/rescued by their friends (or begrudging associates).
 Player Raccoons don’t take serious damage or die, ever. Otherwise they wouldn’t be here telling this story to their grandkits right now.
-Instead of having harm befall them, another Raccoon may opt to rescue them, accruing a **Debt** for Raccoon being assisted.
+Instead of having harm befall them, another Raccoon may opt to rescue them, accruing a **Debt** for the Raccoon being assisted.
 
 
 
