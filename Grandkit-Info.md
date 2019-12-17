@@ -101,10 +101,10 @@ Take care of your players and they should take care of you.
 
 ### 5.2.1. Random Chain Gang Affiliations
 
-This variation randomizes
-Chain Gang affiliation at the start of the game rather than leaving it up to
-player decision. This is great if there is an odd number of players and you don’t
-want anyone to feel left out when picking teams. The last option also leads to fun
+This variation randomizes Chain Gang affiliation at the start of the game rather than leaving it up to player decision.
+This is great if there is an odd number of players and you don’t
+want anyone to feel left out when picking teams.
+The last option also leads to fun
 double-crossing drama.
 
 
@@ -127,28 +127,22 @@ double-crossing drama.
 
 ### 5.2.2. Partners
 
-This variation is for groups
-with an even number of players. You can either let players pick pairs or
-randomize the process. For random selection, the GM rolls 1D6; Even=Left &
+This variation is for groups with an even number of players. You can either let players pick pairs or randomize the process.
+For random selection, the GM rolls 1D6; Even=Left &
 Odd=Right, 1&2=1, 3&4=2, 5&6=3. The GM, after shifting 1-3 seats in
 the direction denoted by the roll, counts aloud around the table up to half the
-total number of players twice after. Each player has to remember their number.
-The other player with the same number as you is your partner. At this point,
-each set of partners may roll on the Random Chain Gang Affiliation chart.
+total number of players twice after.
+Each player has to remember their number.
+The other player with the same number as you is your partner.
+At this point, each set of partners may roll on the Random Chain Gang Affiliation chart.
 
 
 
 ### 5.2.3. Alternate Play-Style: Survival
 
-This variation is intended
-for larger groups and long running games. They will have
-
-personal goal
-defined by each player individually and a
-
-group goal defined by their
-Chain Gang based on the stats at the time. There are 4 statistics relevant to
-your Chain Gang:
+This variation is intended for larger groups and long running games.
+They will have personal goal defined by each player individually and a group goal defined by their Chain Gang based on the stats at the time.
+There are 4 statistics relevant to your Chain Gang:
 
 
 

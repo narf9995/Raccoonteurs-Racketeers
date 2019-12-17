@@ -3,6 +3,13 @@
 #### _An unofficial spiritual successor to Grant Howitt’s Crash Pandas_
 ##### Written by [Aidan Naveja](https://phottachedesign.myportfolio.com/other-art-junk) under the CC-BY-SA-4.0 license
 ---
+
+
+
+![Skate Fast, Eat Trash](Art/Internet_Memes/skatefasteattrash.jpg)
+
+
+
 ### Relevent Definitions:
 
 
