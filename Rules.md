@@ -65,7 +65,7 @@ each ability:
 
 ●
 **Ferocity:** _“Propensity of Harm”_
--- Scratch, Bite, Maim,intimidate, etc.
+-- Scratch, Bite, Maim, intimidate, etc.
 
 
 ●
