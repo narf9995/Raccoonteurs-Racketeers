@@ -39,7 +39,7 @@ rules can be found in section 5.2.
 ### 4.1 Play it straight.
 
 Don’t have anyone question the fact that Raccoon’s are doing this.
-All of it is either considered absolutely normal to any aware bystanders, thought of as someone else's problem”, or they have headphones on and refuse to make eye-contact with anything.
+All of it is either considered absolutely normal to any aware bystanders, thought of as "someone else's problem”, or they have headphones on and refuse to make eye-contact with anything.
 
 
 
