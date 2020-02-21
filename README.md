@@ -1,7 +1,7 @@
 # __Raccoontuers & Racketeers__ [Play-Test Prototype V.1.]
 ### Tall Tales, Striped Tails, & Bats with Nails
-#### _An unofficial spiritual successor to Grant Howitt’s Crash Pandas_
-##### Written by [Aidan Naveja](https://phottachedesign.myportfolio.com/other-art-junk) under the CC-BY-SA-4.0 license
+#### An unofficial spiritual successor to [Grant Howitt’s Crash Pandas](https://www.patreon.com/posts/crash-pandas-20172582)
+#### Written by [Aidan Naveja](https://twitter.com/phottache) under the CC-BY-SA-4.0 license
 ---
 
 
