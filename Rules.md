@@ -123,7 +123,7 @@ To select your starting items you must roll a 1D20 twice on the list below:
 
 18. **DUCT TAPE:** A solution to things not sticking.
 
-19. **BANANA:** Delicious! Also, other things might slip on the peel...
+19. **BANANA:** Delicious! Also, other's might slip on the peel...
 
 20. **HANDGUN:** A loaded Ruger LCP II chambered in .380 ACP that hold 6+1 rounds.
 
@@ -299,8 +299,7 @@ Players choose an action by secretly setting a D6 to a number of their choice, t
 
 
 
-Actions are carried out in
-order from lowest (1) to highest (6):
+Actions are carried out in order from lowest (1) to highest (6):
 
 1: BRAKE: Speed -1 (-2 for cars)
 
