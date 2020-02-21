@@ -38,8 +38,7 @@ The following sections will cover making your raccoons, establishing character r
 
 ### 1.1. Ability Scores
 
-Roll 6d6 and assign one die to
-each ability:
+Roll 6d6 and assign one die to each ability:
 
 
 
@@ -74,9 +73,8 @@ each ability:
 
 
 
-If you have 3 (or more) 1’s,
-then you may re-roll all 6D6 at once until you have less than 3. If you roll
-all 6’s, then you also get to manually choose your 2 starting items.
+If you have 3 (or more) 1’s, then you may re-roll all 6D6 at once until you have less than 3.
+If you roll all 6’s, then you also get to manually choose your 2 starting items.
 
 
 
@@ -99,8 +97,7 @@ To select your starting items you must roll a 1D20 twice on the list below:
 
 5. **BROWN CARDBOARD BOX:** Multipurpose logistics and obfuscation device.
 
-6. **SMART
-PHONE:** Call your friends, take pictures, browse the web!
+6. **SMART PHONE:** Call your friends, take pictures, browse the web!
 
 7. **COUGH SYRUP:** Doesn’t work on coughs, but at least it’s a mild narcotic.
 
@@ -116,8 +113,7 @@ PHONE:** Call your friends, take pictures, browse the web!
 
 13. **ANIMAL CONTROL KEYRING:** Either dropped or stolen, these are the keys to raccoon Super-Max.
 
-14. **LIT CIGAR:** How’s it staying lit? It’s
-seriously been that way for weeks...
+14. **LIT CIGAR:** How’s it staying lit? It’s seriously been that way for weeks...
 
 15. **POLICE SIREN:** Makes noise and lights. Clears traffic temporarily.
 
@@ -143,8 +139,7 @@ Are you an undercover cop?
 Who are your rivals & are they human?
 Do they even know you exist?
 What’s the conflict at the heart of you that spurs drama?
-**Write a short
-origin story for your raccoon, and give them a name.**
+**Write a short origin story for your raccoon, and give them a name.**
 
 
 
@@ -157,8 +152,7 @@ You will likely do anything to see that they fail.
 This can range from something like a sibling rivalry or something much more insidious.
 Maybe they killed your best friend.
 Or maybe they’re a former ally who betrayed you.
-Who ever they are, you think they really just
-suck.
+Who ever they are, you think they really just suck.
 
 
 
@@ -185,8 +179,7 @@ Any other result means your associate is an NPR of your creation.
 
 
 
-Then roll 1D6 to determine
-who owes who.
+Then roll 1D6 to determine who owes who.
 If the result is even, they owe you a favor.
 If it’s odd, you owe them a favor.
 _[If your associate is another PR, first inform them of this debt and then roll the 1D6 for who owes who in a place both of you can see.]_
@@ -200,8 +193,7 @@ _[If your associate is another PR, first inform them of this debt and then roll 
 Roll a number of D6 equal to the relevant ability when you attempt an action.
 If your action ties into your origin story, add a D6 to your roll.
 If it ties into the central conflict in your origin story, add another.
-Furthermore, you may add a D6 if you have an
-item relevant to your action.
+Furthermore, you may add a D6 if you have an item relevant to your action.
 
 
 
@@ -228,8 +220,7 @@ This means each other raccoon may also invoke defects on the same target without
 
 
 
-Formatted as [(Relevant Ability)(Severity) - “Flavor
-Text”]
+Formatted as [(Relevant Ability)(Severity) - “Flavor Text”]
 
 
 
@@ -311,34 +302,28 @@ Players choose an action by secretly setting a D6 to a number of their choice, t
 Actions are carried out in
 order from lowest (1) to highest (6):
 
-1: BRAKE: Speed -1 (-2 for
-cars)
+1: BRAKE: Speed -1 (-2 for cars)
 
 2: TURN LEFT: About 30°
 
 3: TURN RIGHT: About 30°
 
-4: USE ITEM: Do something
-with an item
+4: USE ITEM: Do something with an item
 
-5: ACCELERATE: Speed +1
-(+2 for cars)
+5: ACCELERATE: Speed +1 (+2 for cars)
 
-6: ACTION! (Miscellaneous
-actions)
+6: ACTION! (Miscellaneous actions)
 
 
 
-The GK moves the vehicle in
-accordance with the Raccoons’ collaborative
-actions. The GK is the final arbiter of this; they also move the other vehicles
-around to react to what’s going on.
+The GK moves the vehicle in accordance with the Raccoons’ collaborative actions.
+The GK is the final arbiter of this; they also move the other vehicles around to react to what’s going on.
 
 
 
-SPEED starts at 0. At the
-end of each round, the GK rolls D6 equal to speed. For each dice that shows 1,
-the vehicle takes 1 damage. For each dice that shows 4+ you get a success.
+SPEED starts at 0. At the end of each round, the GK rolls D6 equal to speed.
+For each dice that shows 1, the vehicle takes 1 damage.
+For each dice that shows 4+ you get a success.
 
 
 
@@ -363,7 +348,8 @@ Options include:
 ### 2.2.3. Collisions & Damage
 
 If the vehicle makes contact with an obstacle (or a wall) it takes damage if the GK feels it would be appropriate.
-If it’s a glancing blow, or a breakable object, the car takes damage equal to half speed. If it’s a head-on crash, or a solid object, it takes damage equal to speed, and speed is reduced to 0.
+If it’s a glancing blow, or a breakable object, the car takes damage equal to half speed.
+If it’s a head-on crash, or a solid object, it takes damage equal to speed, and speed is reduced to 0.
 
 
 
@@ -375,7 +361,8 @@ If it takes any further damage without repair, results may be catastrophic.
 ## 2.3. Harm & Misfortune
 
 If a Raccoon fails a dangerous action, they’re in trouble and must be assisted/rescued by their friends (or begrudging associates).
-Player Raccoons don’t take serious damage or die, ever. Otherwise they wouldn’t be here telling this story to their grandkits right now.
+Player Raccoons don’t take serious damage or die, ever.
+Otherwise they wouldn’t be here telling this story to their grandkits right now.
 Instead of having harm befall them, another Raccoon may opt to rescue them, accruing a **Debt** for the Raccoon being assisted.
 
 
@@ -395,16 +382,13 @@ If this association causes the indebted party to repeatedly endanger themselves,
 ## Glossary
 
 ●
-**GK** -- Grandkit - _A.K.A “Game
-Master”_
+**GK** -- Grandkit - _A.K.A “Game Master”_
 
 ●
-**PR** -- Player Raccoon - _A.K.A “Player
-Character”_
+**PR** -- Player Raccoon - _A.K.A “Player Character”_
 
 ●
-**NPR** -- Non-Player Raccoon - _A.K.A
-“Non-Player Character”_
+**NPR** -- Non-Player Raccoon - _A.K.A “Non-Player Character”_
 
 ●
 **1d20** -- One Twenty-Sided Die
@@ -413,9 +397,7 @@ Character”_
 **#d6** -- “# many” Six-Sided Die (e.g. 2d6 is 2 dice)
 
 ●
-**Chain Gang** -- A gang of DIY raccoon
-bicycle thieves.
+**Chain Gang** -- A gang of DIY raccoon bicycle thieves.
 
 ●
-**The Cabal** -- A devious raccoon shadow
-government headquartered in Seattle.
+**The Cabal** -- A devious raccoon shadow government headquartered in Seattle.

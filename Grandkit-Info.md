@@ -7,7 +7,7 @@
 There is no Game Master in R&R, instead you play as group of grandkits sitting around the trash-fire listening to their elders being braggadocios raccoonteurs, re-telling stories from their chain-breaking youth.
 It’s up to you to keep their tales from getting out-of-hand by constantly asking questions to define, explain, or complicate things for the raccoonteurs.
 Remember what it’s like to tell a rowdy group of children a story they don’t already know?
-That's you right now.
+You're those children right now.
 
 
 
@@ -27,8 +27,7 @@ Succeeding gets you closer to this goal, failing takes you further away. This is
 
 #### 3.2.2. Variations
 
-Other variants and optional
-rules can be found in section 5.2.
+Other variants and optional rules can be found in section 5.2.
 
 
 
@@ -46,8 +45,7 @@ All of it is either considered absolutely normal to any aware bystanders, though
 ### 4.2 Be a fan of the Raccoontuers.
 
 They are your elders and you're still at that point in your life where everything adults say is gospel.
-They are you personal hero’s, so make it seem
-that way.
+They are you personal hero’s, so make it seem that way.
 
 
 
@@ -102,10 +100,8 @@ Take care of your players and they should take care of you.
 ### 5.2.1. Random Chain Gang Affiliations
 
 This variation randomizes Chain Gang affiliation at the start of the game rather than leaving it up to player decision.
-This is great if there is an odd number of players and you don’t
-want anyone to feel left out when picking teams.
-The last option also leads to fun
-double-crossing drama.
+This is great if there is an odd number of players and you don’t want anyone to feel left out when picking teams.
+The last option also leads to fun double-crossing drama.
 
 
 
@@ -128,19 +124,17 @@ double-crossing drama.
 ### 5.2.2. Partners
 
 This variation is for groups with an even number of players. You can either let players pick pairs or randomize the process.
-For random selection, the GM rolls 1D6; Even=Left &
-Odd=Right, 1&2=1, 3&4=2, 5&6=3. The GM, after shifting 1-3 seats in
-the direction denoted by the roll, counts aloud around the table up to half the
-total number of players twice after.
+For random selection, the GM rolls 1D6; Even=Left & Odd=Right, 1&2=1, 3&4=2, 5&6=3.
+The GM, after shifting 1-3 seats in the direction denoted by the roll, counts aloud around the table up to half the total number of players twice after.
 Each player has to remember their number.
 The other player with the same number as you is your partner.
 At this point, each set of partners may roll on the Random Chain Gang Affiliation chart.
 
 
 
-### 5.2.3. Alternate Play-Style: Survival
+### 5.2.3. Alternate Play-Style Concept: Survival
 
-This variation is intended for larger groups and long running games.
+This variation concept is intended for larger groups and long running games.
 They will have personal goal defined by each player individually and a group goal defined by their Chain Gang based on the stats at the time.
 There are 4 statistics relevant to your Chain Gang:
 
@@ -150,13 +144,11 @@ There are 4 statistics relevant to your Chain Gang:
 
 - Food & Water
 
-- To make it through the
-winter without any raccoons in your community suffering from malnutrition.
+- To make it through the winter without any raccoons in your community suffering from malnutrition.
 
 **Resources**
 
-- Bike/car parts, scrap
-metal/wood, etc
+- Bike/car parts, scrap metal/wood, etc
 
 - To repair anything ranging from bikes to buildings
 
