@@ -58,4 +58,5 @@ I want to build as much diversity in ideas as possible.
 Heck even if you don't like raccoons, but you just like the mechanics, please feel free to fork it and let me know what awesome things you create!
 
 If you are unfamiliar with GitHub; the Ruleset, Grandkit (GM) Info, and Raccoontuer Generation Resources are all available in the list of links above this Read Me.
+You may have to click on the hyperlink that says "View Code" in order to display this list.
 There are .pdf versions available, although the formatting leaves something to be desired.
