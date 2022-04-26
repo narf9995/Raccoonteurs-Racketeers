@@ -57,6 +57,6 @@ I have a [Discord](https://discord.gg/ypxHt6C) were I will be running games wher
 I want to build as much diversity in ideas as possible.
 Heck even if you don't like raccoons, but you just like the mechanics, please feel free to fork it and let me know what awesome things you create!
 
-If you are unfamiliar with GitHub; the [Ruleset](https://github.com/narf9995/Raccoonteurs-Racketeers/blob/master/Rules%20-%20Markdown/Rules.md), [Grandkit (GM) Info](https://github.com/narf9995/Raccoonteurs-Racketeers/blob/master/Rules%20-%20Markdown/Grandkit-Info.md), and [Raccoontuer Generation Resources](https://github.com/narf9995/Raccoonteurs-Racketeers/tree/master/Resources) are all available in the list of links above this Read Me in addition to the links win this sentence.
+If you are unfamiliar with GitHub; the [Ruleset](https://github.com/narf9995/Raccoonteurs-Racketeers/blob/master/Rules%20-%20Markdown/Rules.md), [Grandkit (GM) Info](https://github.com/narf9995/Raccoonteurs-Racketeers/blob/master/Rules%20-%20Markdown/Grandkit-Info.md), and [Raccoontuer Generation Resources](https://github.com/narf9995/Raccoonteurs-Racketeers/tree/master/Resources) are all available in the list of links above this Read Me in addition to the links within this sentence.
 You may have to click on the hyperlink that says "View Code" in order to display this list.
 There are .pdf versions available, although the formatting leaves something to be desired.
