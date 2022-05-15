@@ -53,6 +53,8 @@ Noun
 This is the first edition of the game. Candidly, it is just an overglorified prototype with some polish. 
 Being the very first official written ruleset for the game, it will likely have some errors and flaws.
 I will address those as they come up and update the rules accordingly. Please contact me with any issues at narf9995@gmail.com.
+
+
 I have a [Discord](https://discord.gg/ypxHt6C) were I will be running games where people are welcome to join my friends and I, but I also encourage you to start your own games.
 I want to build as much diversity in ideas as possible.
 Heck even if you don't like raccoons, but you just like the mechanics, please feel free to fork it and let me know what awesome things you create!
